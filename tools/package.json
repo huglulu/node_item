@@ -1,0 +1,19 @@
+{
+  "name": "new-tools",
+  "version": "1.4.6",
+  "description": "ssl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "copdel": "./bin/copdel.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "commander": "^2.9.0",
+    "fs-extra": "^2.1.2"
+  }
+}
