@@ -44,8 +44,8 @@ loadJokes()
 rl.on('line', (line) => {
     if(jokeStories.length>0 && jokeTitles.length>0){
         console.log('======================')
-        console.log( ('tit：' + jokeTitles.shift()).bgCyan.black) //用colors模块改变输出颜色
-        console.log(('ctx：' + jokeStories.shift()).bgCyan.black) //用colors模块改变输出颜色
+        console.log( ('tit：' + jokeTitles.shift()).bgCyan.black) 
+        console.log(('ctx：' + jokeStories.shift()).bgCyan.black) 
         loadJokes()
     }else{
         console.log('正在加载中~~~'.green)
