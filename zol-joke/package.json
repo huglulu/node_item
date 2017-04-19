@@ -1,0 +1,17 @@
+{
+  "name": "qiushi",
+  "version": "1.0.0",
+  "description": "ss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "colors": "^1.1.2",
+    "superagent": "^3.5.2",
+    "superagent-charset": "^1.1.1"
+  }
+}
