@@ -8,5 +8,5 @@ npm install
 
 ## Usage
 ```bash
-copdel <project name>
+node index.js
 ```
