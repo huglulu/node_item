@@ -9,7 +9,7 @@
   "bin": {
     "copdel": "./bin/copdel.js"
   },
-  "author": "",
+  "author": "huglulu",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.0",
