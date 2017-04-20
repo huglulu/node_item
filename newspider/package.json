@@ -1,12 +1,12 @@
 {
-  "name": "girl",
+  "name": "photo_spider",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node app"
   },
-  "author": "",
+  "author": "huglulu",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.22.0",
