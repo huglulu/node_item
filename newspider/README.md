@@ -1,5 +1,5 @@
-## joke_spider 
-A Node Command Line Tool to download jokes from the page.
+## photo_spider 
+A Node Command Line Tool to download photos from the page.
 
 ## Install
 ```bash
