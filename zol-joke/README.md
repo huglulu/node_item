@@ -1,5 +1,5 @@
 ## joke_spider 
-A Node Command Line Tool to download jokes from the page.
+A Node Tool to download jokes from the page.
 
 ## Install
 ```bash
